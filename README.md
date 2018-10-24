@@ -10,19 +10,19 @@ Custom map can be created in a file.
 Number from 1 to 3 are different type of walls.
 Letter A & B change the floor and the roof type.
 
-Example of map : 
+Example of map : <br/>
 1111111<br/>
 1AAAAA1<br/>
 1111111<br/>
 
 ### Game :
 
-	Move
-    Forward : "Z"
-    Backward : "S"
-    Right : "D"
-    Left : "Q"
-    
-  Fire : Left Mouse
+Move
+Forward : "Z"
+Backward : "S"
+Right : "D"
+Left : "Q"
+
+Fire : Left Mouse
   
-  Take Items (ammo / helmet / gun) : "E"
+Take Items (ammo / helmet / gun) : "E"
