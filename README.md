@@ -11,9 +11,9 @@ Number from 1 to 3 are different type of walls.
 Letter A & B change the floor and the roof type.
 
 Example of map : 
-1111111
-1AAAAA1
-1111111
+1111111<br/>
+1AAAAA1<br/>
+1111111<br/>
 
 ### Game :
 
